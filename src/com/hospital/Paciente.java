@@ -14,7 +14,7 @@ public class Paciente {
         this.sexo = sexo;
     }
 
-    // Getters e Setters
+    
     public int getId() {
         return id;
     }
